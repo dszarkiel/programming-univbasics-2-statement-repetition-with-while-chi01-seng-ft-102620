@@ -1,4 +1,4 @@
-count = 10 
+count = 10
 if count > 0 do
   puts count
   count -= 1
