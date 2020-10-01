@@ -1,5 +1,5 @@
 count = 10
-if count > 0 do
+if count > 0
   puts count
   count -= 1
 else
